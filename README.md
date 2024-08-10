@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler
-- 👀 I’m interested in machine learning, parallel programming, and computer graphics
+- 👀 I’m interested primarily in machine learning, web development, system design, and computer architecture
 - 🌱 I’m currently learning how to build my own ray tracer.
 - 📫 How to reach me tylerbertonlynn@gmail.com
 
